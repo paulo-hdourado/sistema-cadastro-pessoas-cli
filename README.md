@@ -11,7 +11,6 @@ Este projeto começou como uma atividade acadêmica (UNITINS) para praticar **PO
 O projeto foi estruturado com base no seguinte diagrama de classes, respeitando relacionamentos de composição e contratos de interface:
 
 ![Diagrama UML do Projeto](./img/uml-projeto-cadastro.png)
-*(Certifique-se de que a imagem `uml-projeto-cadastro.png` esteja na raiz do repositório)*
 
 ---
 
