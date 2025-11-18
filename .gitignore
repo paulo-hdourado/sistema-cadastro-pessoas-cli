@@ -1,0 +1,12 @@
+# Arquivos gerados pelo compilador e Build Tools
+/bin/
+/target/
+*.class
+
+# Pastas e arquivos de configuração da IDE
+.settings/
+# Note: Mantemos .project e .classpath para facilitar a importação no Eclipse
+
+# Logs e arquivos temporários
+*.log
+*.bak
